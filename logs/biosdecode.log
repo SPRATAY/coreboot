@@ -1,0 +1,57 @@
+# biosdecode 3.3
+SYSID present.
+	Revision: 0
+	Structure Table Address: 0x000F07A1
+	Number Of Structures: 1
+ACPI 2.0 present.
+	OEM Identifier: PTLTD 
+	RSD Table 32-bit Address: 0xD77F458E
+	XSD Table 64-bit Address: 0x00000000D77F45EA
+SMBIOS 2.6 present.
+	Structure Table Length: 2211 bytes
+	Structure Table Address: 0x000DF010
+	Number Of Structures: 49
+	Maximum Structure Size: 166 bytes
+BIOS32 Service Directory present.
+	Revision: 0
+	Calling Interface Address: 0x000FDB30
+Intel Multiprocessor present.
+	Specification Revision: 1.4
+	Configuration Table Address: 0x0009CC71
+	Mode: Virtual Wire
+PNP BIOS 1.0 present.
+	Event Notification: Not Supported
+	Real Mode 16-bit Code Address: E2D1:D19E
+	Real Mode 16-bit Data Address: 0040:0000
+	16-bit Protected Mode Code Address: 0x000FBDC5
+	16-bit Protected Mode Data Address: 0x00000400
+PCI Interrupt Routing 1.0 present.
+	Router Device: ff:1f.7
+	Exclusive IRQs: None
+	Compatible Router: 8086:122e
+	Device: 00:00, on-board
+	Device: 00:07, on-board
+	Device: 00:01, on-board
+	Device: 02:00, slot 6
+	Device: 00:03, on-board
+	Device: 01:00, slot 13
+	Device: 00:04, on-board
+	Device: 00:02, on-board
+	Device: 00:16, on-board
+	Device: 00:19, on-board
+	Device: 00:1a, on-board
+	Device: 00:1b, on-board
+	Device: 00:1c, on-board
+	Device: 03:00, slot 7
+	Device: 0c:00, slot 8
+	Device: 05:00, slot 9
+	Device: 07:00, slot 10
+	Device: 12:00, slot 11
+	Device: 14:00, slot 12
+	Device: 16:00, slot 13
+	Device: 18:00, slot 14
+	Device: 00:1d, on-board
+	Device: 00:1e, on-board
+	Device: 09:00, slot 1
+	Device: 09:01, slot 2
+	Device: 00:1f, on-board
