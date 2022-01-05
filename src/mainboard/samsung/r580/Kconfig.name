@@ -1,0 +1,2 @@
+config BOARD_SAMSUNG_R580
+	bool "Samsung R580"
