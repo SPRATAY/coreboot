@@ -27,3 +27,4 @@ config MAINBOARD_PART_NUMBER
 #config DRAM_RESET_GATE_GPIO
 #	int
 #	default 10
+endif
