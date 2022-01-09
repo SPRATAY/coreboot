@@ -1,0 +1,6 @@
+ 
+    CC         romstage/mainboard/samsung/r580/romstage.o
+    LINK       cbfs/fallback/romstage.debug
+/rum/media/samsung/coreboot/coreboot/util/crossgcc/xgcc/bin/i386-elf-ld.bfd: build/romstage/southbridge/intel/ibexpeak/early_pch.o: in function `early_gpio_init':
+/rum/media/samsung/coreboot/coreboot/src/southbridge/intel/ibexpeak/early_pch.c:16: undefined reference to `mainboard_gpio_map'
+make: *** [src/arch/x86/Makefile.inc:172: build/cbfs/fallback/romstage.debug] Error 1

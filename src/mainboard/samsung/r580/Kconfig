@@ -1,3 +1,5 @@
+## copy for EasyNote LM85 (MS2290)
+
 if BOARD_SAMSUNG_R580
 
 config BOARD_SPECIFIC_OPTIONS
